@@ -1,0 +1,5 @@
+service:
+  name: RemoteService3
+  identifier: RemoteService3
+  orgIdentifier: default
+  projectIdentifier: Unified
